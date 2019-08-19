@@ -1,6 +1,6 @@
 # Laravel Pluralization Fix
 
-[![Build Status](https://travis-ci.org/osiemsiedem/laravel-pluralization-fix.svg?branch=master)](https://travis-ci.org/osiemsiedem/laravel-pluralization-fix) [![Latest Stable Version](https://poser.pugx.org/osiemsiedem/laravel-pluralization-fix/v/stable)](https://packagist.org/packages/osiemsiedem/laravel-pluralization-fix) [![License](https://poser.pugx.org/osiemsiedem/laravel-pluralization-fix/license)](https://packagist.org/packages/osiemsiedem/laravel-pluralization-fix)
+[![Build Status](https://travis-ci.org/osiemsiedem/laravel-pluralization-fix.svg)](https://travis-ci.org/osiemsiedem/laravel-pluralization-fix) [![Latest Stable Version](https://poser.pugx.org/osiemsiedem/laravel-pluralization-fix/v/stable)](https://packagist.org/packages/osiemsiedem/laravel-pluralization-fix) [![License](https://poser.pugx.org/osiemsiedem/laravel-pluralization-fix/license)](https://packagist.org/packages/osiemsiedem/laravel-pluralization-fix)
 
 A Laravel package for fixing pluralization issues.
 
