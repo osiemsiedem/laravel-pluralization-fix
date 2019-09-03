@@ -7,7 +7,7 @@ A Laravel package for fixing pluralization issues.
 ## Requirements
 
 - PHP >= 7.1.3
-- Laravel 5.7 / 5.8
+- Laravel 5.7 / 5.8 / 6.0
 
 ## Installation
 
