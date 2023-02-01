@@ -1,4 +1,4 @@
-# Laravel Pluralization Fix
+# Pluralization Fix for Laravel
 
 [![Build Status](https://travis-ci.org/osiemsiedem/laravel-pluralization-fix.svg)](https://travis-ci.org/osiemsiedem/laravel-pluralization-fix) [![Latest Stable Version](https://poser.pugx.org/osiemsiedem/laravel-pluralization-fix/v/stable)](https://packagist.org/packages/osiemsiedem/laravel-pluralization-fix) [![License](https://poser.pugx.org/osiemsiedem/laravel-pluralization-fix/license)](https://packagist.org/packages/osiemsiedem/laravel-pluralization-fix)
 
